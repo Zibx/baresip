@@ -1,0 +1,20 @@
+{
+  "name": "baresip",
+  "version": "0.3.2",
+  "main": "bear.js",
+  "description": "baresip wrapper",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "chai": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
